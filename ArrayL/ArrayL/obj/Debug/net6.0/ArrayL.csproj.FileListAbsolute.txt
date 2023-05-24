@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\ArrayL\ArrayL\bin\Debug\net6.0\ArrayL.exe
+C:\Users\DELL\source\repos\ArrayL\ArrayL\bin\Debug\net6.0\ArrayL.deps.json
+C:\Users\DELL\source\repos\ArrayL\ArrayL\bin\Debug\net6.0\ArrayL.runtimeconfig.json
+C:\Users\DELL\source\repos\ArrayL\ArrayL\bin\Debug\net6.0\ArrayL.dll
+C:\Users\DELL\source\repos\ArrayL\ArrayL\bin\Debug\net6.0\ArrayL.pdb
+C:\Users\DELL\source\repos\ArrayL\ArrayL\obj\Debug\net6.0\ArrayL.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ArrayL\ArrayL\obj\Debug\net6.0\ArrayL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\ArrayL\ArrayL\obj\Debug\net6.0\ArrayL.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ArrayL\ArrayL\obj\Debug\net6.0\ArrayL.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ArrayL\ArrayL\obj\Debug\net6.0\ArrayL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ArrayL\ArrayL\obj\Debug\net6.0\ArrayL.dll
+C:\Users\DELL\source\repos\ArrayL\ArrayL\obj\Debug\net6.0\refint\ArrayL.dll
+C:\Users\DELL\source\repos\ArrayL\ArrayL\obj\Debug\net6.0\ArrayL.pdb
+C:\Users\DELL\source\repos\ArrayL\ArrayL\obj\Debug\net6.0\ArrayL.genruntimeconfig.cache
+C:\Users\DELL\source\repos\ArrayL\ArrayL\obj\Debug\net6.0\ref\ArrayL.dll
